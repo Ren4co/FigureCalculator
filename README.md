@@ -11,7 +11,7 @@ LEFT JOIN dbo.categories c
 
 
  Результат работы запроса: 
- https://github.com/Ren4co/FigureCalculator/blob/master/result.PNG
+ ![Результат работы запроса:](https://github.com/Ren4co/FigureCalculator/blob/master/result.PNG)
 
 
 
