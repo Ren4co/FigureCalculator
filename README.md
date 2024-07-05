@@ -9,6 +9,8 @@ LEFT JOIN dbo.product_categories pc
 LEFT JOIN dbo.categories c 
 	ON pc.category_id = c.id
 
+Результат работы запроса:
+
  
  ![Результат работы запроса:](https://github.com/Ren4co/FigureCalculator/blob/master/result.PNG)
 
