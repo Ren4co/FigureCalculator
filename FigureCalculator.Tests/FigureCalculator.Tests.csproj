@@ -18,7 +18,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\ClassLibrary\FigureCalculator.csproj" />
+    <ProjectReference Include="..\FigureCalculator\FigureCalculator.csproj" />
   </ItemGroup>
 
   <ItemGroup>

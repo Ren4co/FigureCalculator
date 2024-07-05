@@ -26,7 +26,5 @@ namespace FigureCalculator.Tests
             // assert
             Assert.That(result, Is.EqualTo(78.5).Within(0.5));
         }
-        [Test]
-        public
     }
 }
