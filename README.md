@@ -3,12 +3,12 @@
 
 ```
 SELECT p.name, 
-	   c.name
+       c.name
 FROM dbo.products p
 LEFT JOIN dbo.product_categories pc
-	ON p.id = pc.product_id
+    ON p.id = pc.product_id
 LEFT JOIN dbo.categories c 
-	ON pc.category_id = c.id
+    ON pc.category_id = c.id
 ```
 
 
