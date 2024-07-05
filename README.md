@@ -19,6 +19,13 @@ LEFT JOIN dbo.categories c
 
 
 
+ Схема бд:
+
+ ![Схема бд:](https://github.com/Ren4co/FigureCalculator/blob/master/db_diagram.PNG)
+ 
+
+
+
 Скрипт создания бд:
 ```sql
 CREATE DATABASE SHOP
